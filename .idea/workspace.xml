@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="954c2f92-0f4d-4317-b3aa-a8e9aa163042" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VnuuGEPowpEizBLHByLF5v6rVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdev/DJANGO_COURSE_1.xx/path/to/new/virtual/environment/Scripts/dev" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aashiq\Google Drive\java" />
+      <recent name="C:\Users\Aashiq\Google Drive" />
+      <recent name="C:\Users\aashi\OneDrive\basicJava\src\com\company\aashiq" />
+      <recent name="C:\Users\aashi\OneDrive\basicJava\main" />
+      <recent name="C:\Users\aashi\OneDrive\basicJava" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="reader" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.printUntil">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="basicOfJava" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordsInReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordsInReverseOrder" />
+      <module name="basicOfJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aPositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.aashiq.aPositiveNumber" />
+      <module name="basicOfJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.aashiq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.methods" />
+      <module name="basicOfJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printUntil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.printUntil" />
+      <module name="basicOfJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wordInReverse59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wordInReverse59" />
+      <module name="basicOfJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.printUntil" />
+        <item itemvalue="Application.methods" />
+        <item itemvalue="Application.wordInReverse59" />
+        <item itemvalue="Application.WordsInReverseOrder" />
+        <item itemvalue="Application.aPositiveNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="954c2f92-0f4d-4317-b3aa-a8e9aa163042" name="Default Changelist" comment="" />
+      <created>1577901402937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577901402937</updated>
+      <workItem from="1579192279662" duration="319000" />
+      <workItem from="1579193244576" duration="462000" />
+      <workItem from="1579193937030" duration="206000" />
+      <workItem from="1579195519479" duration="5172000" />
+      <workItem from="1579263821152" duration="94000" />
+      <workItem from="1579263972864" duration="17000" />
+      <workItem from="1579264294036" duration="2408000" />
+      <workItem from="1579273802614" duration="528000" />
+      <workItem from="1579285190112" duration="240000" />
+      <workItem from="1579399733115" duration="3282000" />
+      <workItem from="1579403555175" duration="2649000" />
+      <workItem from="1579407196475" duration="2280000" />
+      <workItem from="1579433180233" duration="7060000" />
+      <workItem from="1579543364450" duration="613000" />
+      <workItem from="1580050513495" duration="597000" />
+      <workItem from="1580152560457" duration="1639000" />
+      <workItem from="1580154433083" duration="15000" />
+      <workItem from="1580154482140" duration="1423000" />
+      <workItem from="1580188587626" duration="64000" />
+      <workItem from="1580188828053" duration="939000" />
+      <workItem from="1580189892635" duration="3299000" />
+      <workItem from="1580232752676" duration="9279000" />
+      <workItem from="1580354537909" duration="609000" />
+      <workItem from="1585509890450" duration="1600000" />
+      <workItem from="1585512032424" duration="1035000" />
+      <workItem from="1585550736860" duration="1248000" />
+      <workItem from="1585561132226" duration="800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="29" key="#Custom_Plugin_Repositories" timestamp="1581234237484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="29" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1581234237484" />
+    <state x="275" y="23" key="#Notifications" timestamp="1579400181806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1579400181806" />
+    <state x="275" y="23" key="#Vim_Emulation" timestamp="1580359714875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Vim_Emulation/0.0.1366.728@0.0.1366.728" timestamp="1580359714875" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577904698510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577904698510" />
+    <state x="457" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577905049949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577905049949" />
+    <state x="432" y="201" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580154705965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="201" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1580154705965" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577904697728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1577904697728" />
+    <state x="479" y="249" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583559032897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="249" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583559032897" />
+    <state x="417" y="130" key="EnvironmentVariablesDialog" timestamp="1577903900846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="130" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577903900846" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1583582341090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583582341090" />
+    <state width="637" height="178" key="GridCell.Tab.0.bottom" timestamp="1583597079145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583597079145" />
+    <state width="637" height="178" key="GridCell.Tab.0.center" timestamp="1583597079145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583597079145" />
+    <state width="637" height="178" key="GridCell.Tab.0.left" timestamp="1583597079145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583597079145" />
+    <state width="637" height="178" key="GridCell.Tab.0.right" timestamp="1583597079145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583597079145" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1578817067137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1578817067137" />
+    <state x="258" y="13" key="SettingsEditor" timestamp="1583056479317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583056479317" />
+    <state x="541" y="137" key="com.intellij.ide.util.TipDialog" timestamp="1583599771470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="541" y="135" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1579285261914" />
+    <state x="541" y="137" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583599771470" />
+    <state x="413" y="120" width="540" height="497" key="extract.method.dialog" timestamp="1580237571291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" width="540" height="497" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1580237571291" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581236829641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1581236829641" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578768248398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578768248398" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579199389682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579199389682" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/basicJava$Main.ic" NAME="Main Coverage Results" MODIFIED="1577904501981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

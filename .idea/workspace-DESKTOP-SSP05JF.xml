@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="954c2f92-0f4d-4317-b3aa-a8e9aa163042" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VnuuGEPowpEizBLHByLF5v6rVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="reader" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aashi\OneDrive\basicJava\src\com\company\aashiq" />
+      <recent name="C:\Users\aashi\OneDrive\basicJava\main" />
+      <recent name="C:\Users\aashi\OneDrive\basicJava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.biggerNumber">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="basicJava" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.aashiq.adder" />
+      <module name="basicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.aashiq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adderex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.aashiq.adderex8" />
+      <module name="basicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.aashiq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="biggerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.aashiq.biggerNumber" />
+      <module name="basicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.aashiq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="circumferenceOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.aashiq.circumferenceOfCircle" />
+      <module name="basicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.aashiq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="secondsInaYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.aashiq.secondsInaYear" />
+      <module name="basicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.aashiq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.biggerNumber" />
+        <item itemvalue="Application.circumferenceOfCircle" />
+        <item itemvalue="Application.secondsInaYear" />
+        <item itemvalue="Application.adderex8" />
+        <item itemvalue="Application.adder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="954c2f92-0f4d-4317-b3aa-a8e9aa163042" name="Default Changelist" comment="" />
+      <created>1577901402937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577901402937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577904698510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577904698510" />
+    <state x="457" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577905049949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577905049949" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577904697728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1577904697728" />
+    <state x="417" y="130" key="EnvironmentVariablesDialog" timestamp="1577903900846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="130" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577903900846" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578678190991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578678190991" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1578678190991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578678190991" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1578678190991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578678190991" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1578678190991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578678190991" />
+    <state x="118" y="14" key="SettingsEditor" timestamp="1578240175764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="118" y="14" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578240175764" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1578232512327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578232512327" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1578331261480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1578331261480" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1577904004117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577904004117" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/basicJava$Main.ic" NAME="Main Coverage Results" MODIFIED="1577904501981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
